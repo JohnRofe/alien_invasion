@@ -1,5 +1,4 @@
 import pygame
-from settings import Settings
 from pygame.sprite import Sprite
 
 
